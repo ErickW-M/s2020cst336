@@ -1,0 +1,9 @@
+div{
+    background: "Purple";
+}
+div.hightlight{
+    width: 200px;
+}
+#third{
+    border-color: "Orange";
+}
